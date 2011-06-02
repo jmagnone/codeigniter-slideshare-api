@@ -1,0 +1,11 @@
+
+Slideshare API for CodeIgniter
+
+Is based on previous work made by author Aadhar Mittal
+https://github.com/slideshare/SlideshareAPIExamples/tree/master/PHPKit/SSUtil
+
+Ported to CodeIgniter as a CI library, some fixed were made to be able to use new API functions 
+and recent changes.
+
+In order to use, download and copy files to your project. Then edit config/slideshare.php with your
+API Key and Secret Key.
